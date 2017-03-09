@@ -1,0 +1,2 @@
+# spring-boot-mybatis-demo
+该示例采用springboot集成MyBatis，并用MyBatisGenerator生产dao和model层，快速开发Web应用
